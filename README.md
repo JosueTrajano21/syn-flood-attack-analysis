@@ -22,5 +22,9 @@ This project presents a network security incident analysis conducted for a ficti
 - Firewall rules applied to block malicious traffic
 - Recommendation of long-term mitigations such as SYN cookies, rate limiting, and intrusion prevention systems
 
+### Files
+- Packet capture file containing network traffic logs used for analysis
+- Incident report documenting the findings, impact, and mitigation steps
+
 ### Disclaimer
 This is a case study conducted in a simulated environment for educational purposes only.
